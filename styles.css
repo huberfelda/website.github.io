@@ -1,0 +1,143 @@
+
+
+body {
+	font-family: 'Merriweather', serif;
+	font-weight: 650;
+	background-color:#b3d9ff;
+	color:#434C4F;
+	width:960px;
+	margin:0 auto;
+}
+h1{
+	text-align:center;
+}
+header img{
+	width:100%;
+}
+header{
+	text-align:center;
+}
+
+h3 {
+	text-align:center;
+}
+ul{
+	text-align:center;
+}
+li {
+	display:inline;
+	padding:15px;
+	color:#434C4F;
+}
+a{
+	color:#434C4F;
+}
+a:hover{
+	color:#009900;
+}
+#about{
+	border:20px solid #cc66ff;
+	padding:10px;
+	margin:30px;
+	width:300px;
+	margin-top:100px;
+}
+img.homepage{
+	width:175px;
+	height:300px;
+	position:relative;
+		left:75%;
+		bottom:335px;
+	border:20px solid #009900;
+	padding:10px;
+}
+img.homepagetwo{
+	width:190px;
+	height:300px;
+	position:relative;
+		left:45%;
+	position:absolute;	
+		top:650px;
+	border:20px solid #4169E1;
+	padding:10px;
+}
+footer{
+	font-family: 'Merriweather', serif;
+	font-weight: 650;
+	color:#434C4F;
+}
+#basicfacts{
+	border:20px solid #009900;
+	padding:10px;
+	margin:20px;
+	width:300px;
+	margin-top:50px;
+	font-size:15px;
+}
+#family{
+	border:20px solid #4169E1;
+	padding:10px;
+	margin:20px;
+	width:300px;
+	margin-top:50px;
+	font-size:15px;
+	position:relative;
+		left:320px;
+}
+#hobbies{
+	border:20px solid #cc66ff;
+	padding:10px;
+	margin:20px;
+	width:300px;
+	margin-top:50px;
+	font-size:15px;
+	position:absolute;
+		top:368px;
+		left:60%;
+}
+
+#preferences{
+	border:20px solid #cc66ff;
+	padding:10px;
+	margin:20px;
+	width:300px;
+	margin-top:50px;
+	font-size:15px;
+	position:relative;
+		left:60%;
+	position:relative;
+		top:0px;
+}
+#education{
+	border:20px solid #009900;
+	padding:10px;
+	margin:20px;
+	width:300px;
+	margin-top:50px;
+	font-size:15px;
+	position:absolute;
+		top:950px;
+	
+	
+}
+#emailform{
+	border:20px solid #cc66ff;
+	padding:10px;
+	margin:30px;
+	width:300px;
+	margin-top:100px;
+	position:relative;
+		left:500px;
+		bottom:225px;
+}
+#contactme{
+	border:20px solid #4169E1;
+	padding:10px;
+	margin:30px;
+	width:300px;
+	margin-top:100px;
+	font-size:15px;
+}
+#aboutme{
+	max-height: 500px;
+}
